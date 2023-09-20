@@ -7,4 +7,4 @@ Data Science Using MS Excel Part 5 Date and Time
 
 Data Science Using MS Excel Part 6 Lokup Functions
 
-# **CO-AUTHORS: ANGELA ABRAHAM AND NIKKITA ANDREA ROXAS **
+# CO-AUTHORS: ANGELA ABRAHAM AND NIKKITA ANDREA ROXAS
