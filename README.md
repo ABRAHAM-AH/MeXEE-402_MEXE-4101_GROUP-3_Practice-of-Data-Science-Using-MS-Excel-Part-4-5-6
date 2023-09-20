@@ -5,6 +5,6 @@ Data Science Using MS Excel Part 4 Information Functions
 
 Data Science Using MS Excel Part 5 Date and Time
 
-Data Science Using MS Excel Part 6 Lokup Functions
+Data Science Using MS Excel Part 6 Lookup Functions
 
 # CO-AUTHORS: ANGELA ABRAHAM AND NIKKITA ANDREA ROXAS
