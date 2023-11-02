@@ -69,6 +69,9 @@ Data Science Using MS Excel Part 6 Lokup Functions
 
 ![HLOOKUP](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/e5c4e3f1-136c-460a-b436-2bf4d1ec80bb)
 
+![MATCH](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/ac4a1bd0-df9c-4e5c-a729-44a4993e0182)
+
+
 
 
 # **CO-AUTHORS: ANGELA HEIZEL ABRAHAM AND NIKKITA ANDREA ROXAS**
