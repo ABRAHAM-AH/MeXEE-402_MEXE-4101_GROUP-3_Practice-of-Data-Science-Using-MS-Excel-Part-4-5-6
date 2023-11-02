@@ -24,6 +24,9 @@ Data Science Using MS Excel Part 4 Information Functions
 
 ![isodd](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/258528c0-3ca6-4768-a238-c7e27918e648)
 
+![isref](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/81fe69f6-437f-4ae4-8e93-73baed80c47c)
+
+
 Data Science Using MS Excel Part 5 Date and Time
 
 Data Science Using MS Excel Part 6 Lokup Functions
