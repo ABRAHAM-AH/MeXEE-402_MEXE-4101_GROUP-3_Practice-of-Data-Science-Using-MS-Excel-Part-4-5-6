@@ -53,6 +53,8 @@ Data Science Using MS Excel Part 5 Date and Time
 
 ![timevalue](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/c5d17c11-8fdd-4549-90e4-cba400d2731d)
 
+![weekday](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/b0691e88-e2e5-47b6-8ede-93e2ca9ad61f)
+
 Data Science Using MS Excel Part 6 Lokup Functions
 
 
