@@ -65,7 +65,7 @@ Data Science Using MS Excel Part 6 Lokup Functions
 
 ![Part 6](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/852ff781-d475-4855-b1ec-e089a4e3e838)
 
-
+![VLOOKUP](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/5537b390-1303-4d91-9d60-2bf508389f88)
 
 
 
