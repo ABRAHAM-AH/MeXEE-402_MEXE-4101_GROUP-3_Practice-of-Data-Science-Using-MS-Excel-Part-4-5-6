@@ -1,4 +1,12 @@
 # MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6
+
+Data Science Using MS Excel Part 4 Information Functions
+
+Data Science Using MS Excel Part 5 Date and Time
+
+Data Science Using MS Excel Part 6 Lookup Functions
+
+
 _"Using Microsoft Excel to Practice Data Science along with its Functions"_
 
 Data Science Using MS Excel Part 4 Information Functions
@@ -82,8 +90,6 @@ Data Science Using MS Excel Part 6 Lokup Functions
 ![COLUMNS](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/ad939675-2f75-493e-869d-1f8a037a1faa)
 
 ![INDIRECT-ADDRESS](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/a9936053-c53e-44fd-85d3-7f5fc8b51f36)
-
-
 
 
 
