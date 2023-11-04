@@ -26,16 +26,22 @@
 ## <p align="center">ISNA Function</p>
 ![isna](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/bec20b21-0a2a-4f29-9efc-64a1e47830c4)
 
+## <p align="center">ISNONTEXT Function</p>
 ![isnontext](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/4f5fd59d-7a17-4688-8881-6ac4ad745947)
 
+## <p align="center">ISNUMBER Function</p>
 ![isnumber](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/a0528388-2984-4755-b8b8-a9c6134c35c9)
 
+## <p align="center">ISODD Function</p>
 ![isodd](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/258528c0-3ca6-4768-a238-c7e27918e648)
 
+## <p align="center">ISREF Function</p>
 ![isref](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/81fe69f6-437f-4ae4-8e93-73baed80c47c)
 
+## <p align="center">ISTEXT Function</p>
 ![istext](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/fc844b34-6850-4750-99b1-e698ef60e6d5)
 
+## <p align="center">TYPE Function</p>
 ![type](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/ec967505-37a4-4287-825a-5e6b2f092195)
 
 # <p align="center">Data Science Using MS Excel Part 5 Date and Time</p>
