@@ -91,33 +91,33 @@
 # <p align="center">Data Science Using MS Excel Part 6 Lokup Functions</p>
 
 ## <p align="center">PART 6</p>
-![Part 6](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/852ff781-d475-4855-b1ec-e089a4e3e838)
+# <p align="center">![Part 6](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/852ff781-d475-4855-b1ec-e089a4e3e838)</p>
 
 ## <p align="center">VLOOKUP Function</p>
-![VLOOKUP](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/5537b390-1303-4d91-9d60-2bf508389f88)
+# <p align="center">![VLOOKUP](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/5537b390-1303-4d91-9d60-2bf508389f88)</p>
 
 ## <p align="center">HLOOKUP Function</p>
-![HLOOKUP](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/e5c4e3f1-136c-460a-b436-2bf4d1ec80bb)
+# <p align="center">![HLOOKUP](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/e5c4e3f1-136c-460a-b436-2bf4d1ec80bb)</p>
 
 ## <p align="center">MATCH Function</p>
-![MATCH](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/ac4a1bd0-df9c-4e5c-a729-44a4993e0182)
+# <p align="center">![MATCH](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/ac4a1bd0-df9c-4e5c-a729-44a4993e0182)</p>
 
 ## <p align="center">CHOOSE Function</p>
-![CHOOSE](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/2de72911-4446-4147-9be5-1b7ee6d23ea8)
+# <p align="center">![CHOOSE](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/2de72911-4446-4147-9be5-1b7ee6d23ea8)</p>
 
 ## <p align="center">AREAS Function</p>
-![AREAS](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/8ac762f3-7750-49e3-b226-36f5ff8b1350)
+# <p align="center">![AREAS](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/8ac762f3-7750-49e3-b226-36f5ff8b1350)</p>
 
 ## <p align="center">ADDRESS Function</p>
-![DRIVER ID](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/fd110cac-218b-4648-bcbb-8bad60a4b032)
+# <p align="center">![DRIVER ID](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/fd110cac-218b-4648-bcbb-8bad60a4b032)</p>
 
 ## <p align="center">COLUMN Function</p>
-![START DATE](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/ccd40dc0-4329-43f8-9d4f-8ffd8f85ff09)
+# <p align="center">![START DATE](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/ccd40dc0-4329-43f8-9d4f-8ffd8f85ff09)</p>
 
 ## <p align="center">COLUMNS Function</p>
-![COLUMNS](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/ad939675-2f75-493e-869d-1f8a037a1faa)
+# <p align="center">![COLUMNS](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/ad939675-2f75-493e-869d-1f8a037a1faa)</p>
 
 ## <p align="center">INDIRECT ADDRESS Function</p>
-![INDIRECT-ADDRESS](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/a9936053-c53e-44fd-85d3-7f5fc8b51f36)
+# <p align="center">![INDIRECT-ADDRESS](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/a9936053-c53e-44fd-85d3-7f5fc8b51f36)</p>
 
 # <p align="center">**AUTHORS: ANGELA HEIZEL ABRAHAM, JHODIELEN MARABI, NIKKITA ANDREA ROXAS**</p>
