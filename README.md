@@ -70,16 +70,22 @@
 ## <p align="center">NOW&TODAY Function</p>
 ![now_today](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/1c7d0764-0f24-40e8-9a1c-d1cb4532d753)
 
+## <p align="center">TIME Function</p>
 ![time](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/d1c6e2ab-3ec5-41ec-a708-32834ac9d8ec)
 
+## <p align="center">TIMEVALUE Function</p>
 ![timevalue](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/c5d17c11-8fdd-4549-90e4-cba400d2731d)
 
+## <p align="center">WEEKDAY Function</p>
 ![weekday](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/b0691e88-e2e5-47b6-8ede-93e2ca9ad61f)
 
+## <p align="center">WEEKNUM Function</p>
 ![weeknum](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/d8098f4c-87c3-4967-bc49-c82b20693cd2)
 
+## <p align="center">WORKDAY INTL Function</p>
 ![workday intl](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/00f2fe6e-6ed3-43c4-8f1e-abfaf98a6f97)
 
+## <p align="center">WORKDAY Function</p>
 ![workday](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/4594001b-8d99-4a0c-81e7-d88315dff2fc)
 
 # <p align="center">Data Science Using MS Excel Part 6 Lokup Functions</p>
