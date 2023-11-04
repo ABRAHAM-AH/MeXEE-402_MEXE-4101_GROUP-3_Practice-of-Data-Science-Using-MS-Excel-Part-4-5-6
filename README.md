@@ -64,7 +64,7 @@
 ## <p align="center">EOMONTH Function</p>
 # <p align="center">![eomonth](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/c61c568b-6fbb-409f-9208-6797d0822e64)</p>
 
-## <p align="center">HOUR, MIN, SEC Function</p>
+## <p align="center">HOUR, MINUTE, SECOND Function</p>
 # <p align="center">![hour_min_sec](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/d6a93457-8f20-4d59-a9f3-35669e56c131)</p>
 
 ## <p align="center">NOW&TODAY Function</p>
