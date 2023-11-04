@@ -108,9 +108,10 @@
 ## <p align="center">AREAS Function</p>
 ![AREAS](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/8ac762f3-7750-49e3-b226-36f5ff8b1350)
 
-
+## <p align="center">ADDRESS Function</p>
 ![DRIVER ID](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/fd110cac-218b-4648-bcbb-8bad60a4b032)
 
+## <p align="center">COLUMN Function</p>
 ![START DATE](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/ccd40dc0-4329-43f8-9d4f-8ffd8f85ff09)
 
 ## <p align="center">COLUMNS Function</p>
