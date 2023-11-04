@@ -108,12 +108,15 @@
 ## <p align="center">AREAS Function</p>
 ![AREAS](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/8ac762f3-7750-49e3-b226-36f5ff8b1350)
 
+
 ![DRIVER ID](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/fd110cac-218b-4648-bcbb-8bad60a4b032)
 
 ![START DATE](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/ccd40dc0-4329-43f8-9d4f-8ffd8f85ff09)
 
+## <p align="center">COLUMNS Function</p>
 ![COLUMNS](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/ad939675-2f75-493e-869d-1f8a037a1faa)
 
+## <p align="center">INDIRECT ADDRESS Function</p>
 ![INDIRECT-ADDRESS](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/a9936053-c53e-44fd-85d3-7f5fc8b51f36)
 
 # <p align="center">**AUTHORS: ANGELA HEIZEL ABRAHAM, JHODIELEN MARABI, NIKKITA ANDREA ROXAS**</p>
