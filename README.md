@@ -46,20 +46,28 @@
 
 # <p align="center">Data Science Using MS Excel Part 5 Date and Time</p>
 
+## <p align="center">DATE Function</p>
 ![date](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/a12d1fcd-98a1-484e-b276-58364010e63a)
 
+## <p align="center">DATEVALUE Function</p>
 ![datevalue](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/3588e845-2ab3-44b2-843e-b99276021807)
 
+## <p align="center">DAY, MONTH, YEAR Function</p>
 ![day_month_year](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/a143f684-910c-4ef2-9758-bb54254132e0)
 
+## <p align="center">DAYS Function</p>
 ![days](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/df46bbc2-9e7c-4927-aff2-ff0a0fabf93d)
 
+## <p align="center">EDATE Function</p>
 ![edate](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/1ab59733-14af-422c-b5e8-fcf92899be7d)
 
+## <p align="center">EOMONTH Function</p>
 ![eomonth](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/c61c568b-6fbb-409f-9208-6797d0822e64)
 
+## <p align="center">HOUR, MIN, SEC Function</p>
 ![hour_min_sec](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/d6a93457-8f20-4d59-a9f3-35669e56c131)
 
+## <p align="center">NOW&TODAY Function</p>
 ![now_today](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/1c7d0764-0f24-40e8-9a1c-d1cb4532d753)
 
 ![time](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/d1c6e2ab-3ec5-41ec-a708-32834ac9d8ec)
