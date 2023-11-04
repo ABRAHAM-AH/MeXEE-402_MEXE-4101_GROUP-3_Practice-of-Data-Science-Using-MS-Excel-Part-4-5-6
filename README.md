@@ -1,8 +1,6 @@
-# MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6
+# <p align="center">MeXEE 402_MEXE 4101_GROUP 3_Practice of Data Science Using MS Excel Part 4,5,6</p>
 
-_"Using Microsoft Excel to Practice Data Science along with its Functions"_
-
-Data Science Using MS Excel Part 4 Information Functions
+# <p align="center">Data Science Using MS Excel Part 4 Information Functions</p>
 
 ![error type](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/25e58c56-d658-4cd6-bf5f-cbb99595f0bb)
 
@@ -32,7 +30,7 @@ Data Science Using MS Excel Part 4 Information Functions
 
 ![type](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/ec967505-37a4-4287-825a-5e6b2f092195)
 
-Data Science Using MS Excel Part 5 Date and Time
+# <p align="center">Data Science Using MS Excel Part 5 Date and Time</p>
 
 ![date](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/a12d1fcd-98a1-484e-b276-58364010e63a)
 
@@ -62,7 +60,7 @@ Data Science Using MS Excel Part 5 Date and Time
 
 ![workday](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/4594001b-8d99-4a0c-81e7-d88315dff2fc)
 
-Data Science Using MS Excel Part 6 Lokup Functions
+# <p align="center">Data Science Using MS Excel Part 6 Lokup Functions</p>
 
 ![Part 6](https://github.com/MARABI-J/MeXEE-402_MEXE-4101_GROUP-3_Practice-of-Data-Science-Using-MS-Excel-Part-4-5-6/assets/143602067/852ff781-d475-4855-b1ec-e089a4e3e838)
 
@@ -86,4 +84,4 @@ Data Science Using MS Excel Part 6 Lokup Functions
 
 
 
-# **CO-AUTHORS: ANGELA HEIZEL ABRAHAM AND NIKKITA ANDREA ROXAS**
+# <p align="center">**AUTHORS: ANGELA HEIZEL ABRAHAM, JHODIELEN MARABI, NIKKITA ANDREA ROXAS**</p>
